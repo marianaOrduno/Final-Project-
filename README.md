@@ -1,3 +1,3 @@
 # Mariana O.
-- [Github Repo]
-- [Live Website](https://github.com/marianaOrduno/Final-Project-/tree/main)
+- [Github Repo](https://github.com/marianaOrduno/Final-Project-/tree/main)
+- [Live Website]
